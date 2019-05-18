@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoosoyae.scrollnav.com/sitemap.xml
